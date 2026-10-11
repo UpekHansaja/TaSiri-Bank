@@ -7,10 +7,12 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>TaSiri Banking</title>
+</head>
+<body>
+
+<h1>Welcome to TaSiri Bank</h1>
+
+</body>
 </html>
