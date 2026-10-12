@@ -14,5 +14,9 @@
 
 <h1>Welcome to TaSiri Bank</h1>
 
+<%
+    response.sendRedirect("login.jsp");
+%>
+
 </body>
 </html>
